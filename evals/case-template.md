@@ -45,7 +45,7 @@
 - 必须包含：
 - 不得包含：
 - 打分方式：`exact` | `contains` | `rubric` | `llm-judge`
-- 通过栀：例如 rubric ≥ 3/4
+- 通过门槛：例如 rubric ≥ 3/4
 
 ## 不应出现
 
