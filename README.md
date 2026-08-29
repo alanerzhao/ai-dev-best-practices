@@ -4,11 +4,11 @@
 
 ## 目录
 
-- `prompts/` 提示词模板与约束
-- `evals/` 评估集、回归集、失败案例
-- `agents/` Agent 角色、工具与交付规范
-- `workflows/` 开发流程（计划 → 实现 → 审查 → 发布）
-- `examples/` 可复制的示例项目
+- [`prompts/`](prompts/) 提示词模板与约束 — [任务简报模板](prompts/task-brief.md)
+- [`evals/`](evals/) 评估集、回归集、失败案例 — [评估用例模板](evals/case-template.md)
+- [`agents/`](agents/) Agent 角色、工具与交付规范 — [角色规范模板](agents/role-spec.md)
+- [`workflows/`](workflows/) 开发流程（计划 → 实现 → 审查 → 发布） — [计划-实现-审查](workflows/plan-build-review.md)
+- [`examples/`](examples/) 可复制的示例项目
 
 ## 基线原则
 
